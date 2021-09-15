@@ -1,6 +1,7 @@
 ﻿ΕΡΓΑΣΙΑ 1
 	ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ ΣΥΣΤΗΜΑΤΟΣ 
 			
+Η εκφώνηση της εργασίας βρίσκετε [εδώ](https://github.com/KostasLiako/Vaccine_Monitor_SystemProgramming/blob/master/hw1-spring-2021.pdf)			
 
 
 Εντολή Μεταγλώτισσης: make ή gcc -o vaccineMonitor vaccineMonitor.c citizen.c list.c skipList.c
